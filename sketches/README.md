@@ -1,3 +1,2 @@
 # Sketches
-
-/sketches.jpg
+![](sketches.jpg)
