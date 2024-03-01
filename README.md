@@ -1,15 +1,16 @@
 # EBook Image Grayscaler
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Ebook image grayscaler is an modern attempt to solve an old problem. Ebooks are gaining traction over traditional books and with this new rise in information come with it a rise in storage consumption and a neglect for underrepresented vision impaired users. Ebook image aims to tackle both of these issues by providing a one stop shop for ebook compression and accessibility settings. As traditional books are haphazardly converted over to a modern format, their heavy colorful footprint should be a choice not a burden.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* [Kadyn Martinez](https://github.com/ChicoState/ux-personal-portfolio-KadynCBR) 
+  - Contribution 1
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
- 
+
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
