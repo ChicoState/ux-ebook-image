@@ -4,10 +4,9 @@ Ebook image grayscaler is an modern attempt to solve an old problem. Ebooks are 
 
 ## UX Team Members
 
-* [Kadyn Martinez](https://github.com/ChicoState/ux-personal-portfolio-KadynCBR) 
-  - Contribution 1
-* **[Wesley Casebeer](https://github.com/ChicoState/ux-personal-portfolio-WesleyCasebeer)** - Personas and Scenarios, Executive Summary
-* **[Adrian Valencia](https://github.com/ChicoState/ux-personal-portfolio-AdrianValen27)** - !!!List of Person C's primary contributions!!!
+* [Kadyn Martinez](https://github.com/ChicoState/ux-personal-portfolio-KadynCBR)  - Phase 1 Report: Introduction, Methods, Caveats
+* **[Wesley Casebeer](https://github.com/ChicoState/ux-personal-portfolio-WesleyCasebeer)** - Personas and Scenarios, Executive Summary, Sketches and Diagrams
+* **[Adrian Valencia](https://github.com/ChicoState/ux-personal-portfolio-AdrianValen27)** - Phase 1 Report: Findings, Conclusion
 
 # User-Centered Design Artifacts
 
