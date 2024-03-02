@@ -22,10 +22,18 @@ Ebook image grayscaler is an modern attempt to solve an old problem. Ebooks are 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* User research showed crucial points that competitors missed
+  - Updates informing the user on progress towards their goal
+  - User error recognition and recovery should be quick and simple
+  - Few clicks, should be a simple process to reach a simple goal
+
+* Analysis of user data provides focuses for maximizing user experience
+  - Well-organized collection of books that have been ran through the software
+  - Efficient file processing for larger texts (textbooks, almanacs)
+
+* Sketches illustrate ideas:
+  - Minimal text to save user time
+  - Few options to focus on achieving user's goals
 
 [Full phase I report](phaseI/)
 
