@@ -1,6 +1,6 @@
 # EBook Image Grayscaler
 
-EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are gaining traction over traditional books and with this new rise in information come with it a rise in storage consumption and a neglect for underrepresented vision impaired users. EBook image aims to tackle both of these issues by providing a one stop shop for eBook compression and accessibility settings. As traditional books are haphazardly converted over to a modern format, their heavy colorful footprint should be a choice not a burden.
+EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are gaining traction over traditional books and with this new rise in information come with it a rise in storage consumption and a neglect for underrepresented vision impaired users. EBook Image aims to tackle both of these issues by providing a one stop shop for eBook compression and accessibility settings. As traditional books are haphazardly converted over to a modern format, their heavy colorful footprint should be a choice not a burden.
 
 ## UX Team Members
 
