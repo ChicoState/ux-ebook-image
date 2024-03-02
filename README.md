@@ -13,7 +13,7 @@ Ebook image grayscaler is an modern attempt to solve an old problem. Ebooks are 
 
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](personas/)
+* [Personas and Scenarios](personas/x06%20Personas%20and%20Scenarios.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](#)
