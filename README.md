@@ -45,7 +45,12 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
   
 * Cognitive walkthroughs clarified users' thought process while interacting with the application:
   - Minimizing the number of choices **guides the user** to their goal
-  - **Frequent feedback** makes 
+  - **Frequent feedback** makes clear the current status of a process
+  - Prevent the need for searching for what to do next
+
+* Wireframes realize plans for layout
+  - **Grouping** buttons with similar functionalities (compression, file type conversion)
+  - Limiting additional features to a small space for **focus on eBook display**
 
 [Full phase II report](phaseII/)
 
