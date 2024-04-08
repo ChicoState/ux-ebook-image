@@ -19,12 +19,12 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
-* User research showed crucial points that competitors missed
+* User research showed crucial points that competitors missed:
   - Updates informing the user on progress towards their goal
   - User error recognition and recovery should be quick and simple
   - Few clicks, should be a simple process to reach a simple goal
 
-* Analysis of user data provides focuses for maximizing user experience
+* Analysis of user data provides focuses for maximizing user experience:
   - Well-organized collection of books that have been ran through the software
   - Efficient file processing for larger texts (textbooks, almanacs)
 
@@ -38,10 +38,14 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Informal feedback outlined user needs for a more complete product
+  - Progression into a comprehensive **eBook manager**
+  - Previous focus on compression instead becomes a feature
+  - Opens/displays eBooks along with options for compression, file conversion
+  
+* Cognitive walkthroughs clarified users' thought process while interacting with the application:
+  - Minimizing the number of choices **guides the user** to their goal
+  - **Frequent feedback** makes 
 
 [Full phase II report](phaseII/)
 
