@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+We had two main limitations, one being that our informal feedback did not cover a very wide demographic. The presentation was given to CS students who are mostly male and all around the same age, and likely people of similar thinking due to them all being in the same major. Also, we were not able to do enough cognitive walkthroughs to cover all of our personas, so we haven't been able to study the thought processes of all of the possible types of users for our application.
