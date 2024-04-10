@@ -1,20 +1,22 @@
 # Phase II: Refining interaction and designing wireframes
 
 ## Introduction
-
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The problem eBook Image Grayscaler aims to solve is twofold. When books are ported to an eBook format, there exists ways in which the port is handled poorly which might result in larger than necessary storage footprints, or unwanted color information. While being able to solve this storage footprint is admirable, in handling the color information it's possible to also assist in helping create accessible eBooks. By taking into account vision impairment and colorblind profiles, potential users are given the choice that empowers their needs. During this first phase of the project, work is primarily being done on color conversions as well as competitors in the space of compression and color converting of eBooks.
 
 ## Methods
+Our UX team had other UX Designers from class who conducted cognitive walkthroughs using the personas and scenarios we previously employed to gain insight into how users would interact with our product. Moreover, the software engineering team also performed a sprint where they demonstrated their product and received feedback from other software engineers on how to improve the product.
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+To improve our product at hand, we employed a method called a cognitive walkthrough. This method consisted of getting peers from different UX teams to perform cognitive walkthroughs of our wireframes using our personas and scenarios. The goal of this testing methodology was to obtain feedback from other UX designers to gain a deeper understanding of our product's strengths and weaknesses. These cognitive walkthroughs involved systematic evaluations to assess the usability of our product through user scenarios, which identified potential issues and features that could be improved. Thus, by employing this research method, we were able to identify crucial areas that could be improved to further serve our users by truly understanding how they interact with our software.
+
+Lastly, the software engineering team performed a demo of the software that was created up to this sprint. After their demo, they received critical feedback that was relayed back to us, the UX team, to learn about the strengths and weaknesses of the software, and then use that feedback to further improve our designs moving forward.
 
 ## Findings
+Wireframes allowed our UX team to get a better understanding of the structure and expectations of our application's core functionality and basic aesthetics. By utilizing wireframes we were able to experiment with a wide variety of layouts that relied on low fidelity to bring our product to life whilst not spending too much time on a single design that we would then scrap. Thanks to the wireframes we designed, we were able to create a low-fidelity, minimalistic, and highly responsive template that focused on the essentials.
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The cognitive walkthroughs allowed us to use our personas and scenarios to gauge the authentic user experience as our peers interacted with our product. Through these interactions, we received crucial feedback that we were able to use to go back to the drawing board and make changes to our wireframes until we could produce a viable product that we were satisfied with. To ensure that our users can seamlessly compress and grayscale their favorite books from their digital libraries, we had to ensure we understood our user's experience to not take away from their original goals when interacting with our software.
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on our discoveries from the wireframes, cognitive walkthroughs, and the feedback from the software engineering team's demos, we concluded that we needed to ensure the process of converting digital libraries to other media forms was seamless, well-structured, quick, and easy. To move more towards this desirable outcome, we focused on a critical issue such as lack of feedback from converting a book to another format or when grayscaling a book, no visual cues resulted in a user wondering if anything was happening under the hood. Thus, moving forward, we will continue to apply the research methods and findings we make to further develop a more sophisticated prototype to allow our users to have a more meaningful and user-friendly experience.
 
 ## Caveats
 
