@@ -13,7 +13,7 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 * [Personas and Scenarios](personas/x06%20Personas%20and%20Scenarios.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/jdFwF6UcpsMZTVnVjXqGzQ/Prototype?node-id=33-3&starting-point-node-id=33%3A3&mode=design&t=CMFxNZO136rKlMLM-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
