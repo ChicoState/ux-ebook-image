@@ -58,7 +58,7 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
-* User testing gives valuable insight on future software improvements
+* User testing gives valuable insight on future software improvements:
   - **Layout decisions** that are currently in place received positive feedback
   - Not enough **feedback** to clarify the outcome of certain user tasks
 
