@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The only major limitation we came across was related to our user testing. The subjects of our user testing were all students of a Usability Engineering course, which means they likely understand the concepts more than the average user, and may behave differently throughout testing than randomly selected test subjects would.
