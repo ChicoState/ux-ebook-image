@@ -38,7 +38,7 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
-* Informal feedback outlined user needs for a more complete product
+* Informal feedback outlined user needs for a more complete product:
   - Progression into a comprehensive **eBook manager**
   - Previous focus on compression instead becomes a feature
   - Opens/displays eBooks along with options for compression, file conversion
@@ -48,7 +48,7 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
   - **Frequent feedback** makes clear the current status of a process
   - Prevent the need for searching for what to do next
 
-* Wireframes realize plans for layout
+* Wireframes realize plans for layout:
   - **Grouping** buttons with similar functionalities (compression, file type conversion)
   - Limiting additional features to a small space for **focus on eBook display**
 
@@ -58,9 +58,8 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* User testing gives valuable insight on future software improvements
+  - **Layout decisions** that are currently in place received positive feedback
+  - Not enough **feedback** to clarify the outcome of certain user tasks
 
 [Full phase III report](phaseIII/)
