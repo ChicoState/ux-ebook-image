@@ -58,8 +58,12 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 **Executive Summary**
 
+* Prototype development brought design plans to life
+  - Simple layout makes tasks trivial
+  - Small number of distinct features enables linear paths with minimal choices
+
 * User testing gives valuable insight on future software improvements:
-  - **Layout decisions** that are currently in place received positive feedback
+  - **Layout decisions** that are currently in place make the software **satisfying** and **effective**
   - Not enough **feedback** to clarify the outcome of certain user tasks
 
 [Full phase III report](phaseIII/)
