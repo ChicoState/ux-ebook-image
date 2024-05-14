@@ -3,6 +3,7 @@
 ## Introduction
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+With a clear identity/purpose defined for our software, the next goal was to get real potential users to experience the software. We developed a working prototype and ran user tests where subjects interacted with the prototype and gave their thoughts on how effective, efficient, and satisfying it felt to use.
 
 ## Methods
 
