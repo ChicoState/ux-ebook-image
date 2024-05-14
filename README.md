@@ -6,7 +6,7 @@ EBook Image Grayscaler is a modern attempt to solve an old problem. EBooks are g
 
 * **[Kadyn Martinez](https://github.com/ChicoState/ux-personal-portfolio-KadynCBR)**  - Prototypes, Wireframes, IRB Application and Paperwork, Phase 1 Report: Introduction, Methods, Caveats
 * **[Wesley Casebeer](https://github.com/ChicoState/ux-personal-portfolio-WesleyCasebeer)** - Personas and Scenarios, Sketches and Diagrams, Phase 1 Report: Executive Summary, Phase 2 Report: Executive Summary, Caveats, Phase 3: Executive Sumary, Introduction, Conclusion, Caveats
-* **[Adrian Valencia](https://github.com/ChicoState/ux-personal-portfolio-AdrianValen27)** - Phase 1 Report: Findings, Conclusion, Phase 2 Report: Introduction, Methods, Findings, Conclusions
+* **[Adrian Valencia](https://github.com/ChicoState/ux-personal-portfolio-AdrianValen27)** - Phase 1 Report: Findings, Conclusion, Phase 2 Report: Introduction, Methods, Findings, Conclusions, Phase 3 Report: Introduction, Methods, Findings
 
 # User-Centered Design Artifacts
 
