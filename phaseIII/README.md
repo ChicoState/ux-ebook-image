@@ -15,7 +15,7 @@ With a clear identity/purpose defined for our software, the next goal was to get
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our set of subjects for user testing led us to two primary conclusions. First of all, none of them had really any problems with the main page's layout and felt they knew where to look for everything. The one exception to this is that some people did not immediately recognize that for nearly all of the functionalities, they first had to select a book which was going to act as the target for that functionality. For example, for the "compress book" button, users would first have to click the book then the button, but a few did it in the reverse order. We  plan to add something to make this more clear. Also, our prototype was lacking in feedback, a couple of the tasks did not make it clear when they were completed. This was probably more of an oversight when designing our prototype than a design decision, but it was proven just how important that feedback is when a task is completed/completing.
 
 ## Caveats
 
